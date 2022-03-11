@@ -1,0 +1,11 @@
+beautifulsoup4==4.10.0
+discord.py==1.7.3
+matplotlib==3.5.1
+mplsoccer==1.0.5
+numpy==1.22.2
+pandas==1.4.0
+Pillow==9.0.1
+python-dotenv==0.19.2
+reportlab==3.6.6
+requests==2.27.1
+svglib==1.2.1
