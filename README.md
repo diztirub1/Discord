@@ -1,6 +1,6 @@
-# Discord bot
+# So Funny Discord bot
 
-My first public project that I've been working on, now and then, since I started programming a couple months ago.
+A Discord bot without any moderation functions, just some fun stuff!
 
 One of the functions is based on the [mplsoccer](https://github.com/andrewRowlinson/mplsoccer) library which will take a player name input, parse fbref.com for statistics and then outputs a pie chart.
 
